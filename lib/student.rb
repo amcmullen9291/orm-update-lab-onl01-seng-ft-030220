@@ -28,4 +28,7 @@ SQL
 DB[:conn].execute(sql)
 end 
 
+def save 
+  if 
+end 
 end
